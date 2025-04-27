@@ -23,7 +23,7 @@ titleLabel.BackgroundColor3 = Color3.new(0, 0, 0)
 titleLabel.BorderSizePixel = 4
 titleLabel.BorderColor3 = Color3.new(255, 0, 0)
 titleLabel.Font = Enum.Font.Code
-titleLabel.Text = "B2S GUI V5 [REMADE]"
+titleLabel.Text = "B2S GUI V5 [REMAKE]"
 titleLabel.TextColor3 = Color3.new(1, 1, 1)
 titleLabel.TextSize = 40
 titleLabel.Parent = mainFrame
@@ -14325,7 +14325,7 @@ label5.Position = UDim2.new(0, 10, 0, 185)
 label5.BackgroundTransparency = 1
 label5.TextColor3 = Color3.fromRGB(255, 255, 255)
 label5.TextScaled = true
-label5.Text = "shoutout to kiya"
+label5.Text = "john doe script : kiya"
 label5.Font = Enum.Font.SourceSans
 label5.Parent = frame
 
